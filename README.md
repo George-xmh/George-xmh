@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying **Computer Science** at **Wilfrid Laurier University** *(graduating May 2026)*
+- 🎓 Studying **Computer Science** at **Wilfrid Laurier University** *(graduating Aug 2026)*
 - 💼 Previously a **Software Development Intern** @ Pacific Smoke International
 - 🔍 Actively seeking **SWE internship & full-time** opportunities
 - 🛠️ I love building full-stack apps and exploring ML on the side
