@@ -15,15 +15,6 @@
 
 ---
 
-### 💼 Work Experience
-
-**Software Development Intern** — Pacific Smoke International *(June 2025 – Sept 2025)*
-- Built a REST API in Flask to serve real-time product availability data, eliminating 50+ weekly manual stock inquiry tickets
-- Designed a PostgreSQL schema consolidating order and shipment records across 5 data sources, cutting fulfillment query times from hours to under 10 seconds
-- Migrated Excel-based reporting to automated Python scripts, reducing report generation time by over 80%
-
----
-
 ### 🚀 Tech Stack
 
 **Languages**
